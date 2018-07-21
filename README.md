@@ -1,2 +1,2 @@
-#Core Java-Tutorial
+#Java-Tutorial
 A collection of java articles 
